@@ -1,0 +1,19 @@
+.empresa-container {
+  background: #effffb;
+  width: 75%;
+  padding: 20px;
+  border: 1px solid #d6d6d6;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  display: flex;
+}
+
+.empresa-container .btn-green {
+    background-color: #50d890;
+    color: #0B0633;
+    font-weight: 500;
+    margin: 0 auto;
+    width: 50%;
+}

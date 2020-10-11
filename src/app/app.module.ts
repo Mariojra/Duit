@@ -9,6 +9,7 @@ import { LoginComponent } from './components/login/login.component';
 import { RegistroComponent } from './components/registro/registro.component';
 import { ExplorarComponent } from './components/explorar/explorar.component';
 import { AboutComponent } from './components/about/about.component';
+import { RegistroUserFormComponent } from './shared/registro-user-form/registro-user-form.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { AboutComponent } from './components/about/about.component';
     LoginComponent,
     RegistroComponent,
     ExplorarComponent,
-    AboutComponent
+    AboutComponent,
+    RegistroUserFormComponent
   ],
   imports: [
     BrowserModule,
