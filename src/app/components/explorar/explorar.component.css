@@ -1,0 +1,23 @@
+.pointer{
+    cursor: pointer;
+}
+
+.fa-tags{
+    color: #50d890;
+}
+
+.card:hover{
+    transition: all .3s ease;
+    box-shadow: 5px 10px 18px #272727;
+}
+
+.search-empresas{
+    width: 75%;
+    border-radius: 10px;
+    transition: all .35s ease-in-out;
+}
+
+.search-empresas:focus{
+    width: 100%;
+    border-color:4f98ca; 
+}
